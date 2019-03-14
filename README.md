@@ -116,7 +116,7 @@ Bon appétit!
 
 ## Conclusion
 
-As you can see, `Object.assign` can be useful both in a destructive and non-destructive capacity, depending on how you need to use it. Play around with it in console and see what happens when you use different data types when you try to combine objects - the results might surprise you! 
+As you can see, `Object.assign` can be useful both in a destructive and non-destructive capacity, depending on how you need to use it. Play around with it in console and see what happens when you use different data types when you try to combine objects - the results might surprise you!
 
 ## Resources
 
